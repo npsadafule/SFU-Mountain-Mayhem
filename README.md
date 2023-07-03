@@ -1,2 +1,2 @@
 # SFU-Mountain-Mayhem
-Game built for a 24 hour GameJam at SFU.
+A Game built in under 24 hours for a 24-Hour-GameJam (Mountaintop Game Jam) at SFU.
